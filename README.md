@@ -67,6 +67,8 @@ Gerar segmentos acionáveis de clientes e fornecer recomendações de negócio a
 ## 📝 Arquivos de saída
 - `cluster_assignments.csv` — DataFrame com coluna `Cluster` adicionada  
 - `cluster_summary.csv` — médias e contagens por cluster  
+- `Data/cluster_assignments.csv`: Dados com a atribuição de clusters.
+- `Data/cluster_summary.csv`: Resumo estatístico por cluster.
 
 ---
 
