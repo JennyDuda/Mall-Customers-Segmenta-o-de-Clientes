@@ -1,6 +1,9 @@
 # Mall-Customers-Segmenta-o-de-Clientes
 Notebook completo que realiza download automático do dataset (via kagglehub), limpeza, EDA, clustering (K-Means), comparação de modelos supervisionados, visualizações avançadas (PCA/t-SNE) e geração automática de insights por cluster.
+
+
 🛍️ Mall Customers — Segmentação de Clientes
+
 🎯 Objetivo
 
 Gerar segmentos acionáveis de clientes e fornecer recomendações de negócio a partir de dados de clientes de um shopping.
